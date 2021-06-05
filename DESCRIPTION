@@ -1,0 +1,11 @@
+Package: confusR
+Type: Package
+Title: Make sense of confusion matrices
+Version: 0.1.0
+Author: David Lovell
+Maintainer: David Lovell <David.Lovell@qut.edu.au>
+Description: Tools to analyse confusion matrices from binary or multinomial classifiers by breaking them into components
+    that are classifier-dependent (using diagnostic odds ratios) and test-data-dependent (prior odds)
+License: MIT
+Encoding: UTF-8
+LazyData: true
